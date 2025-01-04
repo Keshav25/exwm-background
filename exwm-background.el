@@ -4,7 +4,7 @@
 
 ;; Author: Benson Chu <bensonchu457@gmail.com>
 ;; Version: 0.1
-;; Package-Requires: ((exwm "22.1"))
+;; Package-Requires: ((exwm "0.27"))
 ;; URL: https://github.com/pestctrl/exwm-background
 ;; Keywords: tools
 
